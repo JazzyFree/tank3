@@ -1,0 +1,2 @@
+/Users/jasmineclark/Documents/tank3/tank3/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+/Users/jasmineclark/Documents/tank3/tank3/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
